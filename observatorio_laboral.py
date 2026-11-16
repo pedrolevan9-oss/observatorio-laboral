@@ -1,5 +1,5 @@
 """
-Observatorio de empleo, capacitacion y tendencias de perfiles laborales
+Observatorio de empleo
 Proyecto 5 - Grupo 5
 
 Integrantes:
