@@ -1,4 +1,4 @@
-# Observatorio de empleo
+# Observatorio laboral
 
 **Taller de Programación II – UADE**
 Proyecto 5 – Grupo 5
