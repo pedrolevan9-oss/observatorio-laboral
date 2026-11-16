@@ -1,5 +1,5 @@
 """
-Observatorio de empleo
+Observatorio laboral
 Proyecto 5 - Grupo 5
 
 Integrantes:
