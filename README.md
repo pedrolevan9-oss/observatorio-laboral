@@ -1,4 +1,4 @@
-# Observatorio de empleo, capacitación y tendencias de perfiles laborales
+# Observatorio de empleo
 
 **Taller de Programación II – UADE**
 Proyecto 5 – Grupo 5
