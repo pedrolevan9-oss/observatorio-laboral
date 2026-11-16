@@ -1,0 +1,13 @@
+# Archivos que genera el programa al ejecutarse
+historico_ofertas.zip
+ofertas_limpias.csv
+ofertas_limpias.xlsx
+ofertas_limpias.json
+*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
